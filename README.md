@@ -1,4 +1,5 @@
-<img width="2560" height="1399" alt="изображение" src="https://github.com/user-attachments/assets/b63399b7-c109-4c82-a143-e7d62c695e29" />
+<img width="2558" height="1400" alt="изображение" src="https://github.com/user-attachments/assets/ffb8e0ed-7512-4a9c-8db4-68b955675bbf" />
+
 
 Задание «Создать шаблон и применить HttpResponse»
 
